@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/unnatiladder/static/css/main.f3e8273c.chunk.css",
+    "main.js": "/unnatiladder/static/js/main.9361e774.chunk.js",
+    "main.js.map": "/unnatiladder/static/js/main.9361e774.chunk.js.map",
+    "runtime-main.js": "/unnatiladder/static/js/runtime-main.43d60c70.js",
+    "runtime-main.js.map": "/unnatiladder/static/js/runtime-main.43d60c70.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/unnatiladder/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b1151528.chunk.js": "/unnatiladder/static/js/2.b1151528.chunk.js",
+    "static/js/2.b1151528.chunk.js.map": "/unnatiladder/static/js/2.b1151528.chunk.js.map",
+    "index.html": "/unnatiladder/index.html",
+    "precache-manifest.2e7300ee08552583b1f09adcad0261a7.js": "/unnatiladder/precache-manifest.2e7300ee08552583b1f09adcad0261a7.js",
+    "service-worker.js": "/unnatiladder/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/unnatiladder/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.f3e8273c.chunk.css.map": "/unnatiladder/static/css/main.f3e8273c.chunk.css.map",
+    "static/js/2.b1151528.chunk.js.LICENSE": "/unnatiladder/static/js/2.b1151528.chunk.js.LICENSE",
+    "static/media/logo.jpg": "/unnatiladder/static/media/logo.e992e430.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d60c70.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b1151528.chunk.js",
+    "static/css/main.f3e8273c.chunk.css",
+    "static/js/main.9361e774.chunk.js"
+  ]
+}
